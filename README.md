@@ -1,8 +1,7 @@
 # 🚀 Olá! Eu sou Paulo Henrique Nogueira
 **Engenheiro de Dados & IA | Especialista em Automação e Arquitetura Lakehouse**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:fenixworldhenrique@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulo-nogueira-841967416/)
 
 > *"Transformando dados brutos e dispersos em ativos estratégicos, previsibilidade e crescimento de GMV."*
 
